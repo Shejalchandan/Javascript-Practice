@@ -12,11 +12,13 @@ console.log("2">1) ;
 console.log("01">90);
 console.log("++++++++++++++++");
 
-//avoid thsi type od conversion
+//avoid this type of conversion
 console.log(null>0);
 console.log(null==0);
 console.log(null>=0);
 console.log("*******************");
+
+
 //avoid
 console.log(undefined == 0);
 console.log(undefined > 0);
